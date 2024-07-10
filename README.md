@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @InitnelaV
+  
 For the rest of my profile, it doesn't matter, you can put whatever you like ;)
+
 def InitnelaV_or_something_else():
     InitnelaV_or_something_else = {}
-
     InitnelaV_or_something_else['Name'] = input("Check your Name bro': ")
     InitnelaV_or_something_else['First Name'] = input("First Name, if you want, or not: ")
     InitnelaV_or_something_else['Date of birth'] = input("Date of birth (DD/MM/YYYY): ")
@@ -14,8 +15,7 @@ def InitnelaV_or_something_else():
     print("\nPlayer's card:")
     for key, value in InitnelaV_or_something_else.items():
         print(f"{key}: {value}")
-
-
+        
 # Call the Functiun and leave Briteny Alone 
 InitnelaV_or_something_else()
 
