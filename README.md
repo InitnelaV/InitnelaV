@@ -17,7 +17,7 @@ def InitnelaV_or_something_else():
     for key, value in InitnelaV_or_something_else.items():
         print(f"{key}: {value}")
         
-# Call the Functiun and leave Briteny Alone 
+# Call the Functiun and leave Britney Alone 
 InitnelaV_or_something_else()
 
 
