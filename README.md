@@ -2,7 +2,8 @@
   
 For the rest of my profile, it doesn't matter, you can put whatever you like ;)
 
-def InitnelaV_or_something_else():
+    def InitnelaV_or_something_else():
+
     InitnelaV_or_something_else = {}
     
     InitnelaV_or_something_else['Name'] = input("Check your Name bro': ")
@@ -12,13 +13,12 @@ def InitnelaV_or_something_else():
     InitnelaV_or_something_else['Adress'] = input("Adress: ")
     InitnelaV_or_something_else['Phone'] = input("Phone Number: ")
     InitnelaV_or_something_else['mail'] = input("@: ")
-
     print("\nPlayer's card:")
     for key, value in InitnelaV_or_something_else.items():
-        print(f"{key}: {value}")
-        
-# Call the Functiun and leave Britney Alone 
-InitnelaV_or_something_else()
+    
+    print(f"{key}: {value}")     
+    # Call the Functiun and leave Britney Alone 
+    InitnelaV_or_something_else()
 
 
 
