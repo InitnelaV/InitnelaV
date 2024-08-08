@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InitnelaV
   
-For the rest of my profile, it doesn't matter, you can put whatever you like ;)
+For the rest of my profile, it doesn't matter, you can put whatever you want ;)
 
 ![image](https://github.com/user-attachments/assets/d9e08d4f-dac5-49e9-aa84-3627d0b23abe)
 
