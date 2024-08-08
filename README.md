@@ -2,23 +2,23 @@
   
 For the rest of my profile, it doesn't matter, you can put whatever you like ;)
 
-    def InitnelaV_or_something_else():
+def InitnelaV_or_something_else():
+    card = {}
 
-    InitnelaV_or_something_else = {}
-    
-    InitnelaV_or_something_else['Name'] = input("Check your Name bro': ")
-    InitnelaV_or_something_else['First Name'] = input("First Name, if you want, or not: ")
-    InitnelaV_or_something_else['Date of birth'] = input("Date of birth (DD/MM/YYYY): ")
-    InitnelaV_or_something_else['Hobby'] = input("Hobby for Bobby ? : ")
-    InitnelaV_or_something_else['Adress'] = input("Adress: ")
-    InitnelaV_or_something_else['Phone'] = input("Phone Number: ")
-    InitnelaV_or_something_else['mail'] = input("@: ")
+    card['Name'] = input("Check your Name bro': ")
+    card['First Name'] = input("First Name, if you want, or not: ")
+    card['Date of birth'] = input("Date of birth (DD/MM/YYYY): ")
+    card['Hobby'] = input("Hobby for Bobby? : ")
+    card['Address'] = input("Address: ")
+    card['Phone'] = input("Phone Number: ")
+    card['Email'] = input("Email: ")
+
     print("\nPlayer's card:")
-    for key, value in InitnelaV_or_something_else.items():
-    
-    print(f"{key}: {value}")     
-    # Call the Functiun and leave Britney Alone 
-    InitnelaV_or_something_else()
+    for key, value in card.items():
+        print(f"{key}: {value}")
+
+# Call the function and leave Britney Alone
+InitnelaV_or_something_else()
 
 
 
