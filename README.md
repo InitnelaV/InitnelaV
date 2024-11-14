@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @InitnelaV
+- 👋 Hi, I’m InitnelaV
   
-For the rest of my profile, it doesn't matter, you can put whatever you want ;)
+A passionate IT Technician who uses 'Frenglish' in coding.
 
-![image](https://github.com/user-attachments/assets/d9e08d4f-dac5-49e9-aa84-3627d0b23abe)
+Open to learning more about Python.
+Open to working on collaborative projects.
+
+All my repositories are free to use. If you're interested, feel free to take what you need on this GitHub. The only request is to share your creations if you can and provide feedback. Thanks!
+
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/29d28da4-9585-4105-a221-cbc577615284">
 
 
 
