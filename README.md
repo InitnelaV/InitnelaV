@@ -1,6 +1,6 @@
 - 👋 Hi, I’m InitnelaV
   
-A passionate IT Technician who uses 'Frenglish' in coding.
+A passionate IT Technician who search to specialize in Python language (it's basic, i know...)
 
 Open to learning more about Python.
 Open to working on collaborative projects.
