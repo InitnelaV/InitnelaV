@@ -7,9 +7,6 @@ Open to working on collaborative projects.
 
 All my repositories are free to use. If you're interested, feel free to take what you need on this GitHub. The only request is to share your creations if you can and provide feedback. Thanks!
 
-<img width="365" alt="image" src="https://github.com/user-attachments/assets/29d28da4-9585-4105-a221-cbc577615284">
-
-
 
 
 
